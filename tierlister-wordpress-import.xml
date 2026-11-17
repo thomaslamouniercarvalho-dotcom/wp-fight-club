@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+  xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:wp="http://wordpress.org/export/1.2/">
+  <channel>
+    <title>Tierlister</title>
+    <link>https://SEU-SITE.com.br</link>
+    <description>Tierlister - importado do Google Sites</description>
+    <pubDate>Tue, 17 Nov 2026 14:00:00 +0000</pubDate>
+    <language>pt-BR</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:base_site_url>https://SEU-SITE.com.br</wp:base_site_url>
+    <wp:base_blog_url>https://SEU-SITE.com.br</wp:base_blog_url>
+    <wp:author>
+      <wp:author_id>1</wp:author_id>
+      <wp:author_login><![CDATA[admin]]></wp:author_login>
+      <wp:author_email><![CDATA[admin@example.com]]></wp:author_email>
+      <wp:author_display_name><![CDATA[admin]]></wp:author_display_name>
+      <wp:author_first_name><![CDATA[]]></wp:author_first_name>
+      <wp:author_last_name><![CDATA[]]></wp:author_last_name>
+    </wp:author>
+    <generator>https://wordpress.org/?v=6.8</generator>
+
+    <item>
+      <title>Inicial</title>
+      <link>https://SEU-SITE.com.br/inicial/</link>
+      <pubDate>Tue, 17 Nov 2026 14:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[admin]]></dc:creator>
+      <guid isPermaLink="false">https://SEU-SITE.com.br/?page_id=101</guid>
+      <description></description>
+      <content:encoded><![CDATA[<h1>Título a sua página</h1>
+<p>NOME</p>
+<p>IDADE</p>
+<p>PESO</p>
+<p>PODERES</p>
+<p>FRAQUEZAS</p>
+<p>HISTORIA</p>
+<p>NOME</p>
+<p>IDADE</p>
+<p>PESO</p>
+<p>PODERES</p>
+<p>FRAQUEZAS</p>
+<p>HISTORIA</p>]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+      <wp:post_id>101</wp:post_id>
+      <wp:post_date><![CDATA[2026-11-17 11:00:00]]></wp:post_date>
+      <wp:post_date_gmt><![CDATA[2026-11-17 14:00:00]]></wp:post_date_gmt>
+      <wp:post_modified><![CDATA[2026-11-17 11:00:00]]></wp:post_modified>
+      <wp:post_modified_gmt><![CDATA[2026-11-17 14:00:00]]></wp:post_modified_gmt>
+      <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+      <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+      <wp:post_name><![CDATA[inicial]]></wp:post_name>
+      <wp:status><![CDATA[publish]]></wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>1</wp:menu_order>
+      <wp:post_type><![CDATA[page]]></wp:post_type>
+      <wp:post_password><![CDATA[]]></wp:post_password>
+      <wp:is_sticky>0</wp:is_sticky>
+    </item>
+    <item>
+      <title>404</title>
+      <link>https://SEU-SITE.com.br/404/</link>
+      <pubDate>Tue, 17 Nov 2026 14:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[admin]]></dc:creator>
+      <guid isPermaLink="false">https://SEU-SITE.com.br/?page_id=102</guid>
+      <description></description>
+      <content:encoded><![CDATA[<h1>404</h1>
+<p>404</p>]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+      <wp:post_id>102</wp:post_id>
+      <wp:post_date><![CDATA[2026-11-17 11:00:00]]></wp:post_date>
+      <wp:post_date_gmt><![CDATA[2026-11-17 14:00:00]]></wp:post_date_gmt>
+      <wp:post_modified><![CDATA[2026-11-17 11:00:00]]></wp:post_modified>
+      <wp:post_modified_gmt><![CDATA[2026-11-17 14:00:00]]></wp:post_modified_gmt>
+      <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+      <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+      <wp:post_name><![CDATA[404]]></wp:post_name>
+      <wp:status><![CDATA[publish]]></wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>2</wp:menu_order>
+      <wp:post_type><![CDATA[page]]></wp:post_type>
+      <wp:post_password><![CDATA[]]></wp:post_password>
+      <wp:is_sticky>0</wp:is_sticky>
+    </item>
+    <item>
+      <title>Sobre Nós</title>
+      <link>https://SEU-SITE.com.br/sobre-nos/</link>
+      <pubDate>Tue, 17 Nov 2026 14:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[admin]]></dc:creator>
+      <guid isPermaLink="false">https://SEU-SITE.com.br/?page_id=103</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+      <wp:post_id>103</wp:post_id>
+      <wp:post_date><![CDATA[2026-11-17 11:00:00]]></wp:post_date>
+      <wp:post_date_gmt><![CDATA[2026-11-17 14:00:00]]></wp:post_date_gmt>
+      <wp:post_modified><![CDATA[2026-11-17 11:00:00]]></wp:post_modified>
+      <wp:post_modified_gmt><![CDATA[2026-11-17 14:00:00]]></wp:post_modified_gmt>
+      <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+      <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+      <wp:post_name><![CDATA[sobre-nos]]></wp:post_name>
+      <wp:status><![CDATA[publish]]></wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>3</wp:menu_order>
+      <wp:post_type><![CDATA[page]]></wp:post_type>
+      <wp:post_password><![CDATA[]]></wp:post_password>
+      <wp:is_sticky>0</wp:is_sticky>
+    </item>
+    <item>
+      <title>Personagens</title>
+      <link>https://SEU-SITE.com.br/personagens/</link>
+      <pubDate>Tue, 17 Nov 2026 14:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[admin]]></dc:creator>
+      <guid isPermaLink="false">https://SEU-SITE.com.br/?page_id=104</guid>
+      <description></description>
+      <content:encoded><![CDATA[<h1>Personagens</h1>
+<h2>Pica Pau</h2>
+<figure class="wp-block-image"><img src="https://sites.google.com/sitesv-images-rt/APXyLQfMIANYwuT4KGEhrVwbUjpBE2G3M0U2Lk3lz-XpJkXdIiw4MMWplRxjWhyZ4qR7otjYb2h5MOmAKTNiJFOdi_Dk3hiuKUmrQxppaArITLZ2OJ2UzEnwZ6s5jWihI3SQQK22mNkUbN1ZnSOtsc8ZWllXYhXRAWZe28-RTUCsQTqpGD1yjG9CTR-kFlSAugAD-rGtrxGB9nG2mKQmyTCOWpzRC0hGprDkGh3pzipfJIg=w1280" alt="Pica Pau" loading="lazy"/></figure>
+<p><strong>Nome:</strong> Pica Pau</p>
+<p><strong>Idade:</strong> ?</p>
+<p><strong>Peso:</strong> 500g</p>
+<p><strong>Poderes:</strong> Bico indestrutível, capacidade de bicar qualquer material (até metal ou concreto)</p>
+<blockquote><p>Hum, bolo de morango</p></blockquote>
+<hr/>
+<h2>Ben 10</h2>
+<figure class="wp-block-image"><img src="https://sites.google.com/sitesv-images-rt/APXyLQf1uH3v7ymzXpxB2CCddMku023IAE4ia9lAyv0Oackr0newrA0JT1Dm38ibZd2er-99QnEPnpkHz85C45cPN0SOxHzy9okdPeIwFce6W8_QoqmzM-djn_N7empQubGFO5aBoiXrOa6C0mj3dSnyopiElEgfzWKo3dIB-YDU8HXxkkkMdxNfpg7sAIOhDEA=w1280" alt="Ben 10" loading="lazy"/></figure>
+<p><strong>Nome:</strong> Ben Tennyson</p>
+<p><strong>Idade:</strong> 10 anos</p>
+<p><strong>Peso:</strong> Depende do alien</p>
+<p><strong>Poderes:</strong> Pode se transformar em algum alien contido em seu Omnitrix.</p>
+<p><strong>Fraquezas:</strong> Só pode se transformar uma vez por dia.</p>
+<blockquote><p>Tá na hora de virar herói!</p></blockquote>
+<hr/>
+<h2>Agente Secreto</h2>
+<figure class="wp-block-image"><img src="https://sites.google.com/sitesv-images-rt/APXyLQe1G4LdHpuLNC9I61hsg4qc1ze9Hme5JTu7pAixe-vHsFIYKP46G2yoLY9xKeb00447Ha8mAN4fu5Gw1njqnt-Y4bRZfb9qu76TNHOzpQMR0hz-56GWT3cEMtGQ-_20aOJG4JDIgihbmuLSoHSYnR2LL3hYqlINULdWiRXiUXjdB_zfHlPCRFB6W_pvhOMO-J0rOxpmR7KCTVT23WIIw_7C2_H-tyZ7BBDi5EP-=w1280" alt="Agente Secreto" loading="lazy"/></figure>
+<p><strong>Nome:</strong> Pablo</p>
+<p><strong>Idade:</strong> Criança</p>
+<p><strong>Peso:</strong> 500g</p>
+<p><strong>Poderes:</strong> Consegue materaterializar qualquer objeto que imaginou em alguma das brincadeiras que participou com seus amigos do quintal.</p>
+<p><strong>História:</strong> Pablo se revolta após passar as ferias inteiras brincando coms seus amigos no quintal de sua casa, pois seus amigos esqueceram de chama-lo em sua brincadeiera favorita.</p>
+<blockquote><p>Oi! Eu sou o Pablo!</p></blockquote>
+<hr/>
+<h2>Bob Emo</h2>
+<figure class="wp-block-image"><img src="https://sites.google.com/sitesv-images-rt/APXyLQf5WZyiHfWO_kpWZw_5Rt0JR4FEun5bJ55VQ0txf1VtjJmI0gvU_j62icUHHnyE8b42qKtJ6wwoxGro9a0fT1U2INsufWKZfpeZ2xNkt9fdfee3sNu2fZLYWpDWRwoco-a8kYH0XkJ4Fp70vV-ZDGzRpJIFrBckw1T7wq_MZUBRJdJlAZzQw93LXDTCUvUnqFdkFAGGKwRciuahnhdbdb80Uhj8Vy9K0e_mTObyYYI=w1280" alt="Bob Emo" loading="lazy"/></figure>
+<p><strong>Nome:</strong> Bob Esponja Calça Quadrada</p>
+<p><strong>Idade:</strong> Adulto (nascido em 14 de julho de 1986)</p>
+<p><strong>Peso:</strong> 28g</p>
+<p><strong>Poderes:</strong> Corpo esponjoso (Absorve qualquer tipo de líquido e o expele de volta como ataque, estica), mestre na chapa preparando Hambúrgueres de Siri e especialista em caratê.</p>
+<p><strong>Fraquezas:</strong> Ficar fora da água (resseca rapidamente), não consegue tirar carteira de motorista.</p>
+<blockquote><p>Estou pronto! Estou pronto!</p></blockquote>
+<hr/>
+<h2>Carl Wheezer</h2>
+<figure class="wp-block-image"><img src="https://sites.google.com/sitesv-images-rt/APXyLQcj-QG_PE8lvB0sWS2xpThkqkiEVVoUL-_Agf88YiyRE4AVDnjGf3bD58bvyJIWEGdPAk4AEYwDaKQN0Z2TG4mYlsRLhlyel5-XTtWiG-RwRzWIMXvoBNXGlFsSXxwxY26zgVjMrcAO0Cf27idIj6ujImTzPUxdUzRsbQTcdoBbM20ECJTNBmgUqUD1ZEuK4qPFolcrftAOZJUJWm7OswEpdmSwk2Vh5cZNVd-fCWw=w1280" alt="Carl Wheezer" loading="lazy"/></figure>
+<p><strong>Nome:</strong> Carl Wheezer</p>
+<p><strong>Idade:</strong> 11 anos</p>
+<p><strong>Peso:</strong> 1T</p>
+<p><strong>Fraquezas:</strong> Mãe do Jimmy</p>
+<blockquote><p>Foi sem querer querendo!</p></blockquote>
+<hr/>
+<h2>Chavito</h2>
+<figure class="wp-block-image"><img src="https://sites.google.com/sitesv-images-rt/APXyLQcCZfEj8vhzoZbARJ0G5JfoPZIrCSCp6G9C2tmyoPUIucQkDPkzhjK1qYyhjxKMcu4QX0h_ONiFTrHp3jrNV36nUkwTEpitz0VcHYFEsjZnXvT9k84rHyj1mH_yTf0BfgbwymBTXFa3pCkk70b_NXCLB7HuXIARyXuFyTkKQ52kXG1TXZFuhiiHQSJ4sD-jGQI33dr61u7quIbyvpt3lmQzzzPL4CrkUiTvCsmM2-k=w1280" alt="Chavito" loading="lazy"/></figure>
+<p><strong>Nome:</strong> Chaves</p>
+<p><strong>Idade:</strong> 8 anos</p>
+<blockquote><p>Foi sem querer querendo!</p></blockquote>
+<hr/>
+<h2>Buzz Lightyear</h2>
+<figure class="wp-block-image"><img src="https://sites.google.com/sitesv-images-rt/APXyLQduxEjWQRG1cJyaLxHgXtktuOH2bW3DnZTvyFhXlu6Ps8G63DY7f836MI7visFCRUemwiiPhG8FmCthF2Geh6kgmUoF_dvXDuuxoxYVy4aOeecceufevWKjnFqJUwvH5hTRVp0suLrSarmEUyshE-60OdumKGnLf1-naruKKiETU3rXqiW02Tz9m3jobUWmxk5E3SLJAjwHBKz07vPuoi1-SBg5JUKZo3dpTiQs8SI=w1280" alt="Buzz Lightyear" loading="lazy"/></figure>
+<p><strong>Nome:</strong> Buzz Lightyear</p>
+<p><strong>Idade:</strong> Muito velho</p>
+<p><strong>Peso:</strong> 100g</p>
+<p><strong>Poderes:</strong> Raio laser</p>
+<p><strong>Fraquezas:</strong> Ser um brinquedo</p>
+<blockquote><p>Ao infinito e além!</p></blockquote>
+<hr/>
+<h2>Loraxxxxx</h2>
+<figure class="wp-block-image"><img src="https://sites.google.com/sitesv-images-rt/APXyLQcPhZwR43Si9Qd3wqe7vFKnbr8X7taXAW3RudvDAVunKXM34bKqJQTrQrlv_AMue2IlZn9c-rlSukZCUCDpWChuTqkcUyGS46xABn0SHqIL66nZ1rrBG-eIdE_CrSZXQIRdDQBsSw_qJuc1rELuhxGRYyYO0OEfu-9MCZlCGj4avrysUxgr3m3YhrLfpCjmt0PUePQ8P8hTKAGM0WzH7QhYEWqHLb5WyK2WQhpo=w1280" alt="Loraxxxxx" loading="lazy"/></figure>
+<p><strong>Nome:</strong> Lorax</p>
+<p><strong>Idade:</strong> Muito velho</p>
+<p><strong>Peso:</strong> 100g</p>
+<p><strong>Poderes:</strong> Raio laser</p>
+<p><strong>Fraquezas:</strong> Ser um brinquedo</p>
+<blockquote><p>Ao infinito e além!</p></blockquote>]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+      <wp:post_id>104</wp:post_id>
+      <wp:post_date><![CDATA[2026-11-17 11:00:00]]></wp:post_date>
+      <wp:post_date_gmt><![CDATA[2026-11-17 14:00:00]]></wp:post_date_gmt>
+      <wp:post_modified><![CDATA[2026-11-17 11:00:00]]></wp:post_modified>
+      <wp:post_modified_gmt><![CDATA[2026-11-17 14:00:00]]></wp:post_modified_gmt>
+      <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+      <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+      <wp:post_name><![CDATA[personagens]]></wp:post_name>
+      <wp:status><![CDATA[publish]]></wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>4</wp:menu_order>
+      <wp:post_type><![CDATA[page]]></wp:post_type>
+      <wp:post_password><![CDATA[]]></wp:post_password>
+      <wp:is_sticky>0</wp:is_sticky>
+    </item>
+    <item>
+      <title>Carecas</title>
+      <link>https://SEU-SITE.com.br/carecas/</link>
+      <pubDate>Tue, 17 Nov 2026 14:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[admin]]></dc:creator>
+      <guid isPermaLink="false">https://SEU-SITE.com.br/?page_id=105</guid>
+      <description></description>
+      <content:encoded><![CDATA[<h1>Carecas</h1>
+<h2>Apavoro de loiras</h2>
+<figure class="wp-block-image"><img src="https://sites.google.com/sitesv-images-rt/APXyLQcAunSDRaPuq1-2-h8SOOG1tW0FtsWDrT0BjizFqQjSL9NkoMxPcik8L6FtcKU-A2ujjtJJftpIZqdNPTVvbwmzb1JP7EiPubnhiXynj7xduMJODu2knVMAPBvb_WQJOkVgkoa6DMp3_ApTBYtC8YDjwJ0fP0Wsf86u_7-t6k9MQnt_qgTC7Wdrw6DLGJg2F6dQAtmuClvdT_Ce5urBBgV4W7iATU3PKb9ZPMuGQfU=w1280" alt="Apavoro de loiras" loading="lazy"/></figure>
+<p><strong>Nome:</strong> Latrell</p>
+<p><strong>Idade:</strong> 48 anos</p>
+<p><strong>Peso:</strong> 111 KG</p>
+<p><strong>Poderes:</strong> Super- Força, Movimentos ensaboados, Charme irresistivel</p>
+<p><strong>Fraquezas:</strong> &quot;Loiras&quot;, Tempo</p>
+<p>&quot;Latrell após se apaixonar por uma &quot;loira&quot; pega seu mustang rosa e vai atrás de ganhar o torneio do poder para se provar o melhor homem pra ela&quot;</p>
+<hr/>
+<h2>Ciriludo</h2>
+<figure class="wp-block-image"><img src="https://sites.google.com/sitesv-images-rt/APXyLQcar-VXc85PbNpyfbYQf65ugCg1bH_RePgbtF8aADeQxlKU1C5K-NYs2UGuyJO3SXWJ_eAewRSn4pvhK2s2e48c4dXZBFhM523S43GUNI7_JYf9a6jPPsWwl89hV6nEJ-_y-TRKcYgl3tRWS6LguCyRkVZwWf-a3AZDeynITsDDLif1_cyhdn5idBDR=w1280" alt="Ciriludo" loading="lazy"/></figure>
+<p><strong>Nome:</strong> Cirilo</p>
+<p><strong>Idade:</strong> 8 anos</p>
+<p><strong>Peso:</strong> Leve</p>
+<p><strong>Poderes:</strong> Odio profundo</p>
+<p><strong>Fraquezas:</strong> Maria Joaquina</p>
+<p>&quot;Cirilo Após odiar Maria Joaquina vai causando o caos no mundo indo atrás de pessoas mais forte para ele odiar&quot;</p>
+<hr/>
+<h2>&quot;Vin Diesel&quot;</h2>
+<figure class="wp-block-image"><img src="https://sites.google.com/sitesv-images-rt/APXyLQeWTqt0O530XmnZG_cPHQ3-vYPm2XdtIlIGzN2mGlQlGswWQ5Gpa06v0r77Hcil9WBk-S6uSn7BCQDhhW9mD1nXwtfiw6nTzpiAk8ffWoa7PGO93afb1UOPm3SfzFMFbULmmkBUaZfIjBvALqRxT5K8Aiv__AtwWcOq6Pkh351vkdNmPxUG3gWtmbQoqck=w1280" alt="&quot;Vin Diesel&quot;" loading="lazy"/></figure>
+<p><strong>Nome:</strong> Sosia do Vin Diesel</p>
+<p><strong>Idade:</strong> 36 anos</p>
+<p><strong>Peso:</strong> 96 KG</p>
+<p><strong>Poderes:</strong> Carteira de motorista nunca dispensa</p>
+<p><strong>Fraquezas:</strong> Detran</p>
+<blockquote><p>Tudo é sobre familia</p></blockquote>
+<hr/>
+<h2>XANDÃO</h2>
+<figure class="wp-block-image"><img src="https://sites.google.com/sitesv-images-rt/APXyLQdL-nkypx2oZd4gWV-mrL_MZbYL9v28BM_oKM1fLMFcuvUTR8MnsIgQIhvLV6m1UqdygrpcuvXvfRYsExIPkdH25BcmYKpw8xOqBAwYeQ1Qb2pza3MWPbkqf4vBU2GeACIfuXR6TNmme8Ku2KIPFzzCET63ywqxJnl_Eadw1fqBKD7JkKgcDRa4JzNGyEs54HKOtDzTtvGV3NOXE_slAhYuC_aU3p_2gj5t0TxU=w1280" alt="XANDÃO" loading="lazy"/></figure>
+<p><strong>Nome:</strong> Alexandre de Moraes</p>
+<p><strong>Idade:</strong> 57 Anos</p>
+<p><strong>Peso:</strong> 88 KG</p>
+<p><strong>Poderes:</strong> STF , Controlar mentes</p>
+<p><strong>Fraquezas:</strong> Cabelo</p>
+<p>&quot;Super Xandão indo atrás dos malfeitores para julga-los no Supremo tribunal e mostrar a eles seu poder&quot;</p>
+<hr/>
+<h2>SuperHavan</h2>
+<figure class="wp-block-image"><img src="https://sites.google.com/sitesv-images-rt/APXyLQcgjJTMsy5yvt6Zd8ykFYb78Q8gTR0HBFySmj6Y8tTp-EmXetqDibsrZljihvN-3E40-9b5zFPxiIinXF0apOr9WPV3_Hc2IM_pxrpjx19D6u1qIv6U7-7Nv0iLwgLjPsBg-MGw9QNQbb2GXvqJyZs9G_xz7NKHLC6etW5Eg5YwXI6TBmun4EsR8hUE7o5yiVAXWFCOUkGujIc9wK0kR8NiSlHJqos01mxkmoRV=w1280" alt="SuperHavan" loading="lazy"/></figure>
+<p><strong>Nome:</strong> V.D. Havan</p>
+<p><strong>Idade:</strong> ?</p>
+<p><strong>Peso:</strong> 87KG</p>
+<p><strong>Poderes:</strong> desconto 50%, camera absoluta</p>
+<p><strong>Fraquezas:</strong> Porcão Telesena</p>
+<p>&quot;após descobrirem que seu empresa havan foi bancada por um agiota chamado &quot; porcão telesena&quot; ele perdeu toda sua empresa e está vivendo em busca de salvar sua companhia e comprar-ela do porcão Telesena&quot;</p>
+<hr/>
+<h2>HeisenBob</h2>
+<figure class="wp-block-image"><img src="https://sites.google.com/sitesv-images-rt/APXyLQc6Nfe9L4WKuMzSh13dsUdLPkXwpHPwnf7th4KkIFs1Yr_dTpKsHpdR-e3mrkUgEk3MxZ8RkfGZQycbv6CymELOo4FhwdgLebZW0sdTTVHpzJLmomBTXYclwmTb7evC6oWeCoqNlTXkSN4nkUh-52lgei7U6c39Ya19tWxIVXMht6imnVE2gcVFTNSfyodV7d_QltavmJycMXj3l5hVMQHJfszIE6XQf8Pbg75ZFv4=w1280" alt="HeisenBob" loading="lazy"/></figure>
+<p><strong>Nome:</strong> Walter White</p>
+<p><strong>Idade:</strong> 56</p>
+<p><strong>Peso:</strong> 72KG</p>
+<p><strong>Poderes:</strong> Quimica avançada, SAY MY NAME</p>
+<p><strong>Fraquezas:</strong> Cancer</p>
+<p>&quot;Say my name... Heinsenberg&quot;</p>
+<p>&quot;walter percebi que vender metafetamina não era o suficiente para juntar dinheiro então vai atrás de conseguir mais dinheiro no torneio do poder&quot;</p>
+<hr/>
+<h2>Goku Cheirador</h2>
+<figure class="wp-block-image"><img src="https://sites.google.com/sitesv-images-rt/APXyLQe0qJRGgIwPkFog3iaCsTEHfzzzozwFrOWsgs8iICq2hlLoWXgknhSgB4dziQlYux5oLFrroSfySKteRH-tIlqv-PcbzFpxRfPyuSkUXy3bUsbBWsr1kTeeO-mRBha9NP2I2bVwy4aGr1q4CHU_zPMZ3ErfCPvvs3yfvnTm60gNUd7lSn61WXtsuTRaaaJSrEoipCCzhp8z8DVnl-zBAfY4yqL7ml6lLikbIjzPEmE=w1280" alt="Goku Cheirador" loading="lazy"/></figure>
+<p><strong>Nome:</strong> Son Goku</p>
+<p><strong>Idade:</strong> 32</p>
+<p><strong>Peso:</strong> 118KG</p>
+<p><strong>Poderes:</strong> Kamehameha, Spirit Bomb, Teleport</p>
+<p><strong>Fraquezas:</strong> Pão Francês</p>
+<p>&quot;Goku percebe que é fraco então vai atrás de conseguir mais poder que nem o kuririn e treina para aumentar seus poderes indo no torneio do poder&quot;</p>
+<hr/>
+<h2>Dr.pepsi</h2>
+<figure class="wp-block-image"><img src="https://sites.google.com/sitesv-images-rt/APXyLQd7LSq0aKynCWyrWc9aHpgybWqlj0TGepftmzSRkfamYgKp8FJlsEohDrf9V2IdfPHymbRwFFJdsWfLpQ6PCAGfk2BTq7xg1Voh64bXyo4viogAqVZIXj2PUkZAy2qz7WUpDn6FjVzLSml8eZNl703o0vd6Vz7RbHFHz0iSiaP1aCCMQkFGh9jvxmQXohg=w1280" alt="Dr.pepsi" loading="lazy"/></figure>
+<p><strong>Nome:</strong> Encara messi messi messi encara messi messi messi en...</p>
+<p><strong>Idade:</strong> 39 Anos</p>
+<p><strong>Peso:</strong> 70 KG</p>
+<p><strong>Poderes:</strong> driblar a zaga, gentileza</p>
+<p><strong>Fraquezas:</strong> Jogar Limpo</p>
+<p>&quot;Dr.pepsi está em busca da 7 bola de ouro e para isso tem que provar ser o melhor&quot;</p>]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+      <wp:post_id>105</wp:post_id>
+      <wp:post_date><![CDATA[2026-11-17 11:00:00]]></wp:post_date>
+      <wp:post_date_gmt><![CDATA[2026-11-17 14:00:00]]></wp:post_date_gmt>
+      <wp:post_modified><![CDATA[2026-11-17 11:00:00]]></wp:post_modified>
+      <wp:post_modified_gmt><![CDATA[2026-11-17 14:00:00]]></wp:post_modified_gmt>
+      <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+      <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+      <wp:post_name><![CDATA[carecas]]></wp:post_name>
+      <wp:status><![CDATA[publish]]></wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>5</wp:menu_order>
+      <wp:post_type><![CDATA[page]]></wp:post_type>
+      <wp:post_password><![CDATA[]]></wp:post_password>
+      <wp:is_sticky>0</wp:is_sticky>
+    </item>
+    <item>
+      <title>Comidas Brasileiras</title>
+      <link>https://SEU-SITE.com.br/comidas-brasileiras/</link>
+      <pubDate>Tue, 17 Nov 2026 14:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[admin]]></dc:creator>
+      <guid isPermaLink="false">https://SEU-SITE.com.br/?page_id=106</guid>
+      <description></description>
+      <content:encoded><![CDATA[<h1>Comidas brasileiras</h1>
+<h2>Feijotron, o Guardião das Panelas</h2>
+<figure class="wp-block-image"><img src="https://sites.google.com/sitesv-images-rt/APXyLQcp6v2XQ2LZBL8SDsRlxW4MlwCnTLWlPntuXshH2BpnQeSLHZlQ1NOZ3Pe2kekExHcw8hZ66X5UdCnWXZGiQhyJXUMYa_LDoiq6R_qZm4kRxaDjGRIYuNquAMuNLSnrfvORsbWx-g_HYCGax4H0TdMYuDR7aVlfUA5n6LCOy1-tnM0PzKjUp5BhY769s9YwOTv82B7sO4PFTqRG6NSXHVSfSLcXYkw6K20yqEpr=w1280" alt="Feijotron, o Guardião das Panelas" loading="lazy"/></figure>
+<p><strong>Idade:</strong> 450 anos</p>
+<p><strong>Peso:</strong> 85 kg</p>
+<p><strong>Poderes:</strong> A Feijoada pode invocar uma &quot;Chuvas de Carnes e Feijão&quot; (uma saraivada de ingredientes pesados que esmagam os oponentes), gerar um &quot;Calor Ancestral do Caldeirão&quot; (queima os inimigos próximos com um vapor escaldante) e criar uma &quot;Aura de Fortitude Coletiva&quot;, que aumenta temporariamente a defesa de seus aliados e a sua própria, tornando-a uma força inabalável na linha de frente.</p>
+<p><strong>Fraquezas:</strong> Ela é vulnerável ao &quot;Frio Extremo&quot;, que solidifica sua gordura e lentifica seus movimentos, e ao &quot;Tempero Estrangeiro Desarmonizante&quot;, que pode confundi-la e fazê-la perder o foco de sua missão original de proteger a cozinha brasileira.</p>
+<p><strong>História:</strong> Feijotron nasceu nas antigas cozinhas brasileiras e foi escolhido para proteger o segredo do tempero ancestral. Durante séculos, treinou suas habilidades dentro de um enorme caldeirão. Agora, viaja pelo mundo em busca dos ingredientes lendários para impedir que o sabor da culinária brasileira desapareça.</p>
+<hr/>
+<h2>Brigadeiro — O Senhor do Chocolate</h2>
+<figure class="wp-block-image"><img src="https://sites.google.com/sitesv-images-rt/APXyLQfhJ8ExUCXSve9-eq2LXM6DyXhxmUADrgAIuO4ynkliahl-WJAhVZQlM12pW_Gs-QVS6p1cBtxjLSWdg7gaRWJ9GgFgWrH5qE0L5Rk931NedY0hVkTfNTh-82pqb2CK-Kq2hCQAj8KBh4FVisiBEIt9gr7MeAvIcnyNP3FFD6JAUAegKYtRSFMoFjaFetAaFqXeOqApVTWBJBdlLWYxRq8UIYDml-Chut05nJ-e=w1280" alt="Brigadeiro — O Senhor do Chocolate" loading="lazy"/></figure>
+<p><strong>Idade:</strong> 380 anos</p>
+<p><strong>Peso:</strong> 400 g</p>
+<p><strong>Poderes:</strong> O Brigadeiro concentra toda a sua energia de chocolate e dispara uma chuva de granulados endurecidos contra seus inimigos. Cada granulado funciona como um pequeno projétil, atingindo vários adversários ao mesmo tempo.</p>
+<p><strong>Fraquezas:</strong> O calor é seu maior inimigo. Em ambientes muito quentes, sua armadura começa a derreter, deixando seu corpo mole e reduzindo drasticamente sua defesa. Se permanecer muito tempo exposto ao calor, pode acabar virando uma poça de chocolate.</p>
+<p><strong>História:</strong> Nascido em uma antiga fábrica de doces, Brigadeiro foi criado a partir de uma receita secreta que lhe concedeu poderes extraordinários. Durante anos, treinou suas habilidades até se tornar o Senhor do Chocolate, conhecido por sua aparência irresistível e sua força surpreendente. Agora, percorre o mundo em busca de novos desafios para provar que nem mesmo os guerreiros mais poderosos conseguem resistir ao seu sabor.</p>
+<hr/>
+<h2>Pão de Queijo — O Guardião de Minas</h2>
+<figure class="wp-block-image"><img src="https://sites.google.com/sitesv-images-rt/APXyLQe4v4BKeWinXcMARb9FC-WuArYgWDqN4Ykfgn4p5sSWZzJTAsvWvjIano__yPe7rNXJwIO2q2hMa44ZPwt3dVA9v8lQyurFgrz2HHiIRwPdK0KJoGwJZOBexRsTYi7tB4N_DZw2Gddn1otLqGmuLD78FG-wjOBlsqF9P7PFQDImahjpcRG-Nd2Q5iMEjRDluREVelqruXy9puzFDPknIcW_d8pszqsKj08uePJelcA=w1280" alt="Pão de Queijo — O Guardião de Minas" loading="lazy"/></figure>
+<p><strong>Idade:</strong> 300 anos</p>
+<p><strong>Peso:</strong> 80 g</p>
+<p><strong>Poderes:</strong> O Pão de Queijo ativa a sua crosta dourada e canaliza uma energia térmica intensa. Ele dispara rajadas de polvilho incandescente e fatias de queijo derretido ultra-quente que grudam e imobilizam os adversários no campo de batalha.</p>
+<p><strong>Fraquezas:</strong> Ficar muito tempo fora do forno ou ser mergulhado em café frio, o que endurece sua casca instantaneamente e bloqueia seus movimentos.</p>
+<p><strong>História:</strong> Nascido nas tradicionais fazendas mineiras, o Pão de Queijo foi forjado pelo calor dos antigos fornos a lenha. Ele carrega a sabedoria secular das cozinhas de Minas Gerais e jurou proteger o segredo do verdadeiro polvilho artesanal contra qualquer invasor que ouse estragar a receita original.</p>
+<hr/>
+<h2>Baião de Dois — O Dançarino do Sertão</h2>
+<figure class="wp-block-image"><img src="https://sites.google.com/sitesv-images-rt/APXyLQdH1m9336CRjwWJADraIjoelREpaLEaAXfcZZQfU39OnmR8oC49L1LS33Z3Vxpv-5WsgQuqaL5mFIl-32rZqU1G2z751rfyd3xex5wmcWnlzrv19qls2ovtIO-x42_SOAGWhSQf3DLs5ge7YApNl3gR4SbqpaRN6T9dHsCqxWw-ugGDKsP_u9L6uykhwOfbBM80MZSEmlYuwWOs5gMRU6H7bhpw_DzskKGoot-34zU=w1280" alt="Baião de Dois — O Dançarino do Sertão" loading="lazy"/></figure>
+<p><strong>Idade:</strong> 380 anos</p>
+<p><strong>Peso:</strong> 650 g</p>
+<p><strong>Poderes:</strong> Ao ritmo contagiante do forró nordestino, o Baião de Dois cria uma dupla dinâmica imbatível entre o arroz e o feijão-de-corda. Ele dispara rajadas de carne de sol e pedaços de queijo coalho derretido que selam os oponentes, além de usar sua lança de garfo gigante e seu nariz de pimenta para lançar ondas de calor picante e notas musicais que desorientam os inimigos.</p>
+<p><strong>Fraquezas:</strong> Ambientes extremamente úmidos ou chuvosos, que encharcam seus grãos, deixam o prato empapado e reduzem sua agilidade e ritmo de combate.</p>
+<p><strong>História:</strong> Forjado nas terras áridas e resistentes do Nordeste brasileiro, o Baião de Dois surgiu da união sagrada entre o arroz e o feijão para vencer os tempos difíceis da seca. Equipado com seu gibão de couro, chapéu de cangaceiro e escudo de barro, ele viaja pelo mundo espalhando a força, a alegria e a resistência da culinária sertaneja.</p>
+<hr/>
+<h2>Paço-Kahn</h2>
+<figure class="wp-block-image"><img src="https://sites.google.com/sitesv-images-rt/APXyLQd-XROzy4zD6PZKxN7_CnT7dshliaOIqPeOONPXkmUYhs2WR24UHwCqSEs8paep29o48IakSMlMTq2nLo4lHb44aysUl0TkuaqLklB1YBq2eB-5n89zXCcg0rm_XT2n_eEcHKnmb0C3div8ND772_qUiJB5_O1BUm1DXw4VbardxSgYLl8Q6bx1Y1EXrCyb_d1gtMds1ykvQt7Tj_qodfaOjRZKrvEVlgp524jH=w1280" alt="Paço-Kahn" loading="lazy"/></figure>
+<p><strong>Idade:</strong> 300</p>
+<p><strong>Peso:</strong> 1kg</p>
+<p><strong>Poderes:</strong> a paçoca suga toda a umidade do ar ao redor. O inimigo tenta falar algo, mas a garganta dele fica instantaneamente seca, como se tivesse comido três paçocas sem água.</p>
+<p><strong>Fraquezas:</strong> O Dilúvio de Saliva (Água): A água é a criptonita definitiva. Se chover, ou se alguém jogar um copo d&#x27;água nela, a paçoca gigante não derrete, ela vira uma lama pastosa e gosmenta de amendoim. Ela perde 90% da sua defesa e fica presa no chão, incapaz de se mover.</p>
+<p><strong>História:</strong> No início dos tempos culinários, durante a lendária Grande Quermesse Cósmica de 1994, os deuses dos doces juninos se reuniram para criar a guloseima definitiva. Eles misturaram amendoim torrado no calor de uma supernova, açúcar refinado nas nuvens mais doces e uma pitada de sal das lágrimas de quem ficou sem par na quadrilha.</p>
+<p>O plano era criar a paçoca perfeita. Porém, o Deus do Vinho Quente tropeçou na tomada do liquidificador místico, gerando uma sobrecarga de energia estática. O resultado? Em vez de um doce comum, nasceu Paço-Kahn: uma paçoca com a consciência de um guerreiro e o peso colossal de uma tonelada</p>
+<hr/>
+<h2>Gladiador Catupiry</h2>
+<figure class="wp-block-image"><img src="https://sites.google.com/sitesv-images-rt/APXyLQft1JPs4ytfj9xxdAP6V_FlAw6cfEwnZdm5YLer8w9LY3eHiuOzA3z6atO2OY8oEVEE2HWwnLCVF7PIueeHLAvjWHtq8_Lf5tqlCCiprsSaBvyrkwvg49rNTkZBNpjjRDcn9rDt_JwHYocKDez09qxN61j2-D3WAupXfDaFx5QFJI19sU694XqyBrcZKQs=w1280" alt="Gladiador Catupiry" loading="lazy"/></figure>
+<p><strong>Idade:</strong> 102 anos</p>
+<p><strong>Peso:</strong> 150 kg</p>
+<p><strong>Poderes:</strong> Ele bate no próprio peito e dispara a camada de farinha de rosca frita como se fossem estilhaços de granada. É um ataque em área que espalha gordura e crocância dolorosa nos olhos dos inimigos.</p>
+<p><strong>Fraquezas:</strong> O Ataque do Guardanapo de Papel de Seda: Aquele clássico guardanapo transparente de lanchonete que não limpa nada, mas gruda em tudo. Se o inimigo jogar um desses nele, o papel drena instantaneamente todo o seu Escudo de Óleo Velho, deixando a coxinha seca, opaca e vulnerável a golpes físicos.</p>
+<p><strong>História:</strong> Nas profundezas da mística Zona Leste, no coração da lanchonete &quot;Rei do Salgado&quot;, algo extraordinário aconteceu na madrugada de uma sexta-feira. O mestre dos salgados, conhecido apenas como Seu Tonho, estava prestes a fechar o estabelecimento quando decidiu criar uma última obra-prima com as sobras do dia.</p>
+<p>Ele juntou 2 kg de frango desfiado com Catupiry legítimo, moldou uma massa de batata perfeita e jogou aquele colosso de 3,5 kg no tacho. Porém, o óleo de fritura — que já não era trocado desde o início do mês — tinha acumulado tantas energias cósmicas de fins de noite que acabou concedendo vida à criatura. Nasceu ali Gladiador Catupiry</p>
+<hr/>
+<h2>Galinha Caipira — A Guerreira da Roça</h2>
+<figure class="wp-block-image"><img src="https://sites.google.com/sitesv-images-rt/APXyLQfCskVNZ1YFttyIkf9GkXsgcdetDP4mTlNvZtzBIiprmJqVJXkcUvWIVqoKqOBuD8ODPvrgjUo1GBbdXaFrZefaBlFXwC-gk0IFfpQQeLO55GEaY8FRqkjGVWPNbvaXqyfEZlJHy4i6i0RS1a9d7qxHY9iUQIi0Kappsz6IR9Nyk1S4C1j1jPCmLR5CzERPudUy_t-_FWcnwya0I94B7321OA8_VCfQigIujlqYaQ0=w1280" alt="Galinha Caipira — A Guerreira da Roça" loading="lazy"/></figure>
+<p><strong>Idade:</strong> 250 anos</p>
+<p><strong>Peso:</strong> 3,5 kg</p>
+<p><strong>Poderes:</strong> A Galinha Caipira canaliza a força ancestral das terreiras de fazenda. Ela desfere bicadas certeiras que perfuram qualquer defesa e usa suas esporas afiadas combinadas com o poder do pirão quente para atordoar os inimigos em combates corpo a corpo.</p>
+<p><strong>Fraquezas:</strong> Ondas de frio intenso ou correntes de ar congelantes que paralisam suas penas e tiram sua velocidade de esquiva.</p>
+<p><strong>História:</strong> Criada solta pelos terreiros mais antigos do interior do Brasil, a Galinha Caipira cresceu ciscando perigos e defendendo o poleiro de qualquer ameaça. Com sua armadura rústica de penas blindadas e seu espírito indomável, ela viaja pelas cozinhas do mundo garantindo que a verdadeira essência da comida caipira jamais seja esquecida.</p>
+<hr/>
+<h2>Tropeirão — O Colosso da Comitiva</h2>
+<figure class="wp-block-image"><img src="https://sites.google.com/sitesv-images-rt/APXyLQc_gGDv0zvvh9TalkNW9WzAiI9LeP2hnMsR5QFERb-1W003pxS-dokqzQtav2slQUrIuctMN-xuc2cN9y5BVUg1R0L4l7ogDZbPoPHJSdgNlkLwpe36smyUm1P-r_0pGKu4I6l5bGa2xcUU6nOytsrIJBFtphOu3fe7tjFXlKGUEU2COqCsfZfC4g5zMATUUlZkQcEZ-xWbUa3UW5VoY86b8J_BqIHmajPCjypgoB0=w1280" alt="Tropeirão — O Colosso da Comitiva" loading="lazy"/></figure>
+<p><strong>Idade:</strong> 320 anos</p>
+<p><strong>Peso:</strong> 900 g</p>
+<p><strong>Poderes:</strong> O Feijão Tropeiro combina a firmeza dos feijões com o poder da farofa crocante e pedaços estaladinhos de bacon. Ele consegue disparar rajadas secas de farinha e feijão que desidratam o oponente instantaneamente, além de usar sua bota de tropeiro para criar ondas de choque a cada passo no chão.</p>
+<p><strong>Fraquezas:</strong> Tempestades tropicais intensas, já que o excesso de água e lama desmancha a sua farofa e enfraquece a sua estrutura corporal.</p>
+<p><strong>História:</strong> Nascido nas longas e poeirentas estradas das antigas comitivas de tropeiros que cruzavam o interior do Brasil, este guerreiro foi moldado para resistir às maiores longas jornadas. Sempre pronto para a aventura, ele carrega no corpo o sabor rústico e a energia de quem abriu os caminhos do país.</p>]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+      <wp:post_id>106</wp:post_id>
+      <wp:post_date><![CDATA[2026-11-17 11:00:00]]></wp:post_date>
+      <wp:post_date_gmt><![CDATA[2026-11-17 14:00:00]]></wp:post_date_gmt>
+      <wp:post_modified><![CDATA[2026-11-17 11:00:00]]></wp:post_modified>
+      <wp:post_modified_gmt><![CDATA[2026-11-17 14:00:00]]></wp:post_modified_gmt>
+      <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+      <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+      <wp:post_name><![CDATA[comidas-brasileiras]]></wp:post_name>
+      <wp:status><![CDATA[publish]]></wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>6</wp:menu_order>
+      <wp:post_type><![CDATA[page]]></wp:post_type>
+      <wp:post_password><![CDATA[]]></wp:post_password>
+      <wp:is_sticky>0</wp:is_sticky>
+    </item>
+    <item>
+      <title>Figuras Históricas</title>
+      <link>https://SEU-SITE.com.br/figuras-historicas/</link>
+      <pubDate>Tue, 17 Nov 2026 14:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[admin]]></dc:creator>
+      <guid isPermaLink="false">https://SEU-SITE.com.br/?page_id=107</guid>
+      <description></description>
+      <content:encoded><![CDATA[<h1>Figuras históricas</h1>
+<p>Em uma disputa de porradaria franca, quem dessas figuras históricas ganharia?</p>
+<h2>Napoleão Bomnaparte</h2>
+<figure class="wp-block-image"><img src="https://sites.google.com/sitesv-images-rt/APXyLQej4YwZdbEFzmFTHQmSvInJuFsQ-lGhjPmBmDeplZRRM7Gs6TckS6_Pv6mXP6u_ZzQrjfY5s6_mPsd88IH83xwj1Lz1w3ASnbkxFPBlfHHExFzbzChB0DM4GHzyu5Lfdub5gKLAddX6pQC8PAnUvtPQklKNhQUrPz5FFjeeLcld0auDDHPcZ7H2YJQDA2dwBv9Gi3YuJB0i5mAinG-PMFOxKuM8HhyQwCc7D_N-SUQ=w1280" alt="Napoleão Bomnaparte" loading="lazy"/></figure>
+<hr/>
+<h2>Alexandre. O grande</h2>
+<figure class="wp-block-image"><img src="https://sites.google.com/sitesv-images-rt/APXyLQd4fRVx5kbp0-YLGKr5hKyuVoRFC700UJ5oqBVA6X2U_lubY26AkPx6nq0kW1MYHc4aSXf5G5uZG4NXi7G14pF7Mt6dyyYhta86rJiP75N1aCdaJlkjI3KtVaXPRusf_KbHS0AdAfCXChPTndwOh4SFdjDyRpjqJ8fzNNb20A1gVWu8ViEhRMzCy9Y6Sx9aVWVY9ICA7QDSMkklVkUgKBf7W3N6fTwDTA6Ar2wA=w1280" alt="Alexandre. O grande" loading="lazy"/></figure>
+<hr/>
+<h2>Adolf Hitler</h2>
+<figure class="wp-block-image"><img src="https://sites.google.com/sitesv-images-rt/APXyLQesCcstwYYSSGp4coViknQ1-J4tr3kDdh3bv58-iZnHnxPdNBL8R_hHDI7A1twU9z7hSWjT0KzX5Pkaw1tNObehEqVymg_8ETPw3PSHL8oE3GIGLgcYXfFQCv8QYxSgLmMs3EM299wwSMXlqetSwb_2LZGHk__EolfW9eYIZ8ZX14Jov2k6HjdRyEuUP1dTDNAQTU603RVgz9jBmtpJhTuR1jMAWlSLcl_dz9Ha=w1280" alt="Adolf Hitler" loading="lazy"/></figure>
+<hr/>
+<h2>Genghis Khan</h2>
+<figure class="wp-block-image"><img src="https://sites.google.com/sitesv-images-rt/APXyLQc3xpwqtaznPBrUutPbAsvPeUB9kn-H5uvO5Uc-kMMzBLE2H3DMhG5mLx44jZDibnQIkcXcRkBLTp9UB25XmWVsg0JyfViZqnVWxtlYxnODjVVWbGMPPUP5_1SRYzL-o2wGpxE6YgroIAPdatuIhVYtT827Y5vRZfMElroefvkpSQhsVBLlJY50ihpu9DLFVhcf3fvGYLjheB_kLbyZ_SWwqSWIXG2-bzFeWYhFlP0=w1280" alt="Genghis Khan" loading="lazy"/></figure>
+<hr/>
+<h2>Miyamoto Musashi</h2>
+<figure class="wp-block-image"><img src="https://sites.google.com/sitesv-images-rt/APXyLQeGxpFFj8FTIBHWWoYeLlkYZGIMCpGIrirFGkAejICB3kiS8whl3EcC00liPZtDvv-RCdRpuozyKSHZL4ozuRjFpv-HOxw9uD0zQdUy2q4AvYjx149n04SY7HOVinffYLpreMXZrpILagyNt-OVYyXEumyeb7UXvbIW012si_howI0taCBBkhF4gwQnlP78-JmWEz7CCFdvBrdlvptlrmZqU3KHrfc6EWg1Kwko71w=w1280" alt="Miyamoto Musashi" loading="lazy"/></figure>
+<hr/>
+<h2>Bruce Lee</h2>
+<figure class="wp-block-image"><img src="https://sites.google.com/sitesv-images-rt/APXyLQeDQly40i6J6g8fvBnL2uQbYbdtp5qf0XTx5cOe1I12RsFYR1VJ8O4wWdv50k9pbAwvxGO3XdgHVu4HJduqAdVekT0GwfjkGErG738S0eWhJExOTt0ENqdpGgszrGAQ7T9KRXkxarRowFgFWfMU9iXN281ohaKMNbmdi5lscMPtzxOEz-gDLzOwUxm67AtxJ9NFxtG5bGSqzZ0sIeosSvxxN0eMKt80An5zRD5_=w1280" alt="Bruce Lee" loading="lazy"/></figure>
+<hr/>
+<h2>Albert Einsten</h2>
+<figure class="wp-block-image"><img src="https://sites.google.com/sitesv-images-rt/APXyLQcji0mdwRJluW2UCo39vIc_0cSwClQj6N4wJeeC5taY2whbHkXzWwUNrMvInWW1N6_oYB3K26XJP4VYwSXNHtcKJ-3QDDYawzgIJ3z2R7JR1UcJhcaD-hVwbneJAJ6dX1tecSaw-IJtsg8KQhU9EEp0BbuaomFMAqOxJCCn54pbqVf8RQXewzy_4aJEcQZnpDWDPJ-hdd_VTnD0YG8irK1E4-zWHdCF-0nx6Dz1=w1280" alt="Albert Einsten" loading="lazy"/></figure>
+<hr/>
+<h2>Nikola Tesla</h2>
+<figure class="wp-block-image"><img src="https://sites.google.com/sitesv-images-rt/APXyLQcka6I7i2t2AM5L5lzXm3nvrzQgh1IL8Btnq77nw1HvHLsz-xfhSnGf0CPUxBCsoycSRJNgeeS3zun_dSNIDWqzrObKJFVfIXtiP0NLJSkoL4qoPTZlu8E14CuGhT1JpgDYJKHswXBoLIViavXsiGObvkrRe_c8vDcdx27fhnitGrLYjhHnpFqDyeF9A5ih6KGL-fioSxz-BWH20DtLq4LIebH-MRCE7pQiL36KLac=w1280" alt="Nikola Tesla" loading="lazy"/></figure>]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+      <wp:post_id>107</wp:post_id>
+      <wp:post_date><![CDATA[2026-11-17 11:00:00]]></wp:post_date>
+      <wp:post_date_gmt><![CDATA[2026-11-17 14:00:00]]></wp:post_date_gmt>
+      <wp:post_modified><![CDATA[2026-11-17 11:00:00]]></wp:post_modified>
+      <wp:post_modified_gmt><![CDATA[2026-11-17 14:00:00]]></wp:post_modified_gmt>
+      <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+      <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+      <wp:post_name><![CDATA[figuras-historicas]]></wp:post_name>
+      <wp:status><![CDATA[publish]]></wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>7</wp:menu_order>
+      <wp:post_type><![CDATA[page]]></wp:post_type>
+      <wp:post_password><![CDATA[]]></wp:post_password>
+      <wp:is_sticky>0</wp:is_sticky>
+    </item>
+    <item>
+      <title>Influencers</title>
+      <link>https://SEU-SITE.com.br/influencers/</link>
+      <pubDate>Tue, 17 Nov 2026 14:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[admin]]></dc:creator>
+      <guid isPermaLink="false">https://SEU-SITE.com.br/?page_id=108</guid>
+      <description></description>
+      <content:encoded><![CDATA[<h1>Influencers</h1>
+<h2>DAVI BRITO</h2>
+<figure class="wp-block-image"><img src="https://sites.google.com/sitesv-images-rt/APXyLQf_RPuR1qos7hyYvvMj2HvL_0_MERx3j_jEs7BROYb8I_Qg54yi8wVodP_EB_Z1pqryHeaEj1xwhcpUcgvtyb4IFdiY85fqJDRW6Uq75JsxFvnUZHbG4-PkKRldgH97Q1OmatbES-ZVDQ0iml6ts6dhjepwHmgozswj6wxTn-wel9BWx7-6D3PWFocIceOkaj9f1EuTzDqqTIlhnEgF5kUtpdxN8I8xymkx09VKhvo=w1280" alt="DAVI BRITO" loading="lazy"/></figure>
+<p><strong>NOME:</strong> DAVI BRITO SANTOS DE OLIVEIRA</p>
+<p><strong>IDADE:</strong> 24 ANOS</p>
+<p><strong>PESO:</strong> ?</p>
+<p><strong>PODER:</strong> DEIXAR OS OUTROS COM SONO POR 6S APÓS DIZER &quot;CALMA CALABRESO&quot;</p>
+<p><strong>FRAQUESSA:</strong> VAIDAGEM E -0 DE DINHEIRO</p>
+<p><strong>LORE:</strong> &quot;APÓS UMA LONGA VIAGEM PARA O BBB 2025, DAVI BRITO FOI PARAR NO GRAAL COMER CALABRESA, NO ENTANTO, ALGUEM DE CAPUZ PRETO O SEGUESTROU EM UMA PAJERO 2011 CINZA, DEPOIS, DAVI BRITO FOI LARGADO EM UM RING DE LUTA&quot;</p>
+<hr/>
+<h2>LUIs CRAZY NEAR</h2>
+<figure class="wp-block-image"><img src="https://sites.google.com/sitesv-images-rt/APXyLQdI2MFpMP7DcvwZTOEItwO-mUTKr1YVT9q3MMpK-8rE45-nlfw4n_OrFBYwXha65xYXd8FjOa5PXwDYASldMu7VgbiT63nJOnxJkkD1zLe0ro8X4-zclPM5ksd8vbaWDD7ysmtpqq_PwpYUt6RaNfntaqluJWx7XkzjmGoI1fkJfCJFRbmFydY1geIe4_o=w1280" alt="LUIs CRAZY NEAR" loading="lazy"/></figure>
+<p><strong>NOME:</strong> LUIS FERNANDO</p>
+<p><strong>IDADE:</strong> 37 ANOS</p>
+<p><strong>PESO:</strong> 200T de musculo</p>
+<p><strong>PODER:</strong> CONGELAR OS OUTROS COM SEU CUSPE</p>
+<p><strong>FRAQUESSA:</strong> DROGAS E MENDINGAR</p>
+<p><strong>LORE:</strong> &quot;DURANTE UM TREINO NA IRONBERG JUNTO DE CARIANI E BALESTRIN, ELE FOI VISTO NO BANHEIRO UTILIZANDO SUBSTÂNCIAS ILÍCITAS (CREATINA SME SER DA GROWTH), ENTÃO, CARIANO DECIDE EXPULSÁ-LO DA ACADEMIA, TENTANTO UMA VIDA NOVA (DE NOVO), ELE VÊ UM CARTAZ ANUNCIANDO UM RING DE LUTA&quot;</p>
+<hr/>
+<h2>ZOIO</h2>
+<figure class="wp-block-image"><img src="https://sites.google.com/sitesv-images-rt/APXyLQfnl9NQIxbLLC6nQjbd7ramsWpBAuxdzJeEHykXToOcrXY5CydQCxUgHC83hfgFYyOB3PTsvw6Nz8jrjLun1q7H7k4Dbe9lFeFHKOnyncjCmOQcrmKY5YImhgSDPDNzx9fKXMZ9uv10rdcwnMv7-AgFtM-VDQcfF4j_S1HH_1nElgimByVt3_g1K4ltDz4=w1280" alt="ZOIO" loading="lazy"/></figure>
+<p><strong>NOME:</strong> Everson Henrique de Oliveira</p>
+<p><strong>IDADE:</strong> 34 ANOS</p>
+<p><strong>PESO:</strong> ?</p>
+<p><strong>PODER:</strong> PEGAR UMA MARRETA ENQUANTO FAZ UM DESAFIO HARDCORE</p>
+<p><strong>FRAQUESSA:</strong> COLIRIO E AIDS</p>
+<p><strong>LORE:</strong> &quot;ANDANDO JUNTO DE ALEK, ZOIO DECIDE QUE IA FAZER ALGO MUITO ARRISCASO, O DESAFIO FINAL, ALEK AVISOU QUE IA DAR RUIM, ZOIO MESMO ASSIM O IGNORA E FAZ O TAL DESAFIO, APÓS ISSO, ZOIO CIA E BATE A CABEÇA NA PRÓPRIA MARRETA, DEPOIS DE UM TEMPO, ELE ACORDA EM UM GALPÃO ONDE DIZIA: &quot;LUTAS AMANHÃ!&quot; &quot;</p>
+<hr/>
+<h2>RATO BORRACHUDO</h2>
+<figure class="wp-block-image"><img src="https://sites.google.com/sitesv-images-rt/APXyLQc2d6vBM5e5vQ7WyYEb-mU-5AC-kAufFRubJW3tDjOMYwo1zJkol2NJ8AIVdqPmWXnIscllJxzb0K0g8FBWBO7EvEkb56sVE8QuFLuTi2Dk-gYMNiwKas03T55-vFuX_ruGh86xLY2nJ15q6W6PxX6YFVkIuj8cJ-dnv3piMbjygBoswZF6kURLQyvR6tI=w1280" alt="RATO BORRACHUDO" loading="lazy"/></figure>
+<p><strong>NOME:</strong> DOUGLAS MESQUITA SILVA</p>
+<p><strong>IDADE:</strong> 39</p>
+<p><strong>PODER:</strong> LEPTOSPIROSE E CHAMAR OS RATOS</p>
+<p><strong>FRAQUESSA:</strong> SEM A MÁSCARA, ELE NÃO RESPIRA</p>
+<hr/>
+<h2>ERIKA HILTON</h2>
+<figure class="wp-block-image"><img src="https://sites.google.com/sitesv-images-rt/APXyLQfnUDIAnzzV0YwHao8TcD4XmuihwsnG86b4I-R1aCdEP1XvqHh5Rmfjzhh1LrV5NY0WI4ohmrZcAnBu8YXEorK2OeHPOKwcAfGMQPY3amI87Qkemcs8L_IYehguatE3lvRohxfujRqeUobIQd_q9SE6GDz1ZYvTy0OdDuhyXV5bf2Fwv-f-FejlRqQUEfs=w1280" alt="ERIKA HILTON" loading="lazy"/></figure>
+<p><strong>NOME:</strong> ERIKE SANTES SILVE</p>
+<p><strong>IDADE:</strong> 33</p>
+<p><strong>PESO:</strong> ?</p>
+<p><strong>PODER:</strong> BATER EM QUEM QUISER</p>
+<p><strong>FRAQUESSA:</strong> BANHEIROS</p>
+<hr/>
+<h2>NIKOLAS FERREIRA</h2>
+<figure class="wp-block-image"><img src="https://sites.google.com/sitesv-images-rt/APXyLQes30RegPoz4EvuQRn_SOdt7LqntDLHH3RjUmt53Cdy2u6dR9ce8SxP-_JCz-BCCx760m0ok2l9ote538wdjc_9GIdBMUdAsmZkMiPDjKbiDPKprEsQ8DhCha0Jk23fdvUZY2qEvMtMnC1MCjOgtfKJvNipOyYA9kKjqCL3qIFmhBuxgrE_KvXWTPROhm06K6r9StorErCsBv-Ra6aOMidYAgceAlZGMd18kjr_xt8=w1280" alt="NIKOLAS FERREIRA" loading="lazy"/></figure>
+<p><strong>NOME:</strong> NIKOLAS FERREIRA</p>
+<p><strong>IDADE:</strong> 30</p>
+<p><strong>PESO:</strong> ?</p>
+<p><strong>PODER:</strong> GRITOS ALTOS QUE DEIXAM O INIMIGO AOTRDOADOS</p>
+<p><strong>FRAQUESSA:</strong> TAXADO</p>
+<hr/>
+<h2>hYTALO SANTOS</h2>
+<figure class="wp-block-image"><img src="https://sites.google.com/sitesv-images-rt/APXyLQfgkjYyOhZGgK8x6O9FPfbHTv2AW0xSGRVJyFUKojnznYfk4irRn1YLVR4KW6UdDnZw2EoIEIY-zqnk_-YmeEPZP5CJDJg_gv3XY_c_8ZCfibcnfsn3f0NfAeu-qw_DiwW42hKNn0vg3JBIXl4d58Asy7aErfwG4Wez5Qcl95p236wrYqvPFXrW8HNqHA3vZ-L2Rps7pZaVkG-nbsn49PgqAYGZjg-3bl2sdEE8G0I=w1280" alt="hYTALO SANTOS" loading="lazy"/></figure>
+<p><strong>NOME:</strong> MAJIN BOO</p>
+<p><strong>FRAQUESSA:</strong> PESSOAS ALTAS, MAGRAS E CABELUDAS</p>
+<hr/>
+<h2>FELCA</h2>
+<figure class="wp-block-image"><img src="https://sites.google.com/sitesv-images-rt/APXyLQfHXaMlfKUMUMppJN0Cl8nK2-DMoYPKKmCdB83d6EbiAVBNMX81DecY9TTRgnzWUn2Ormnt_-NVtJvX-hJkU3wX4vsBe0KXblJYfs4z49lc1AA8rNjlyN3h4oCWfOty3QmFP_PLfRcJTrgUCH7rbDROjRzKoo3q6KKPmkNUBubYTb-JAtYBWTVjRUdKPeOU9mUZt32yFwnjJrNpPAxd6opDymH3amLwlsHgy4R2ROo=w1280" alt="FELCA" loading="lazy"/></figure>
+<p><strong>PODER:</strong> CRIAR LEIS</p>
+<p><strong>FRAQUESSA:</strong> PESSOAS</p>]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+      <wp:post_id>108</wp:post_id>
+      <wp:post_date><![CDATA[2026-11-17 11:00:00]]></wp:post_date>
+      <wp:post_date_gmt><![CDATA[2026-11-17 14:00:00]]></wp:post_date_gmt>
+      <wp:post_modified><![CDATA[2026-11-17 11:00:00]]></wp:post_modified>
+      <wp:post_modified_gmt><![CDATA[2026-11-17 14:00:00]]></wp:post_modified_gmt>
+      <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+      <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+      <wp:post_name><![CDATA[influencers]]></wp:post_name>
+      <wp:status><![CDATA[publish]]></wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>8</wp:menu_order>
+      <wp:post_type><![CDATA[page]]></wp:post_type>
+      <wp:post_password><![CDATA[]]></wp:post_password>
+      <wp:is_sticky>0</wp:is_sticky>
+    </item>
+    <item>
+      <title>Mascotes</title>
+      <link>https://SEU-SITE.com.br/mascotes/</link>
+      <pubDate>Tue, 17 Nov 2026 14:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[admin]]></dc:creator>
+      <guid isPermaLink="false">https://SEU-SITE.com.br/?page_id=109</guid>
+      <description></description>
+      <content:encoded><![CDATA[<h1>MASCOTES</h1>
+<figure class="wp-block-image"><img src="https://sites.google.com/sitesv-images-rt/APXyLQe25h8ud1cR9dop5z29YnJyFBfbTStvmB4gV1q0lW21wLqsIfKjybQmPofZhdGFnA-FJFdWUiGaFu5T6gqWR3pFsJr4vfmKTS0OMpfX22JXOEb_fO6JC-ZKjGEaNNiyM4nUxx3J1uuxWJCiWcROat3-7Gyr-ZKgbf2-782LE682MGRd2UcUIQASPoqYfg-qnSklH2VUJOE1ZXiBSYnc5ME6unpgipHoO4QljqMn=w1280" alt="" loading="lazy"/></figure>
+<figure class="wp-block-image"><img src="https://sites.google.com/sitesv-images-rt/APXyLQfFxHeMHOONs-FCWiXeHF_rC5zSpZOKj4TybxfXdwvXf4uE4Vf4zMmOGCDzgJivBKc4bjndzoXd4lwa1tYXSauyA-PecAjfODCw-aAneUmnh4zziJg1LrVgoZk30B2aQqoXb1tAviw6r_MOTFfDYEczdxqkcM2AOAQ5OxjWyP3Fer3PYPo_jbqQFVsX0U8On4W1sXnMm9_535YJuHXwPuufsyU4w2mtAQlt3PbQ97M=w1280" alt="" loading="lazy"/></figure>
+<h2>Fuleco</h2>
+<figure class="wp-block-image"><img src="https://sites.google.com/sitesv-images-rt/APXyLQcNl77nRHtbbpRLWBujLm9hl5uU-XTQ1_lePdba1hgU_dqjoIIofG5qZIfJwfh2Fu1t12hdCT7c5d75NDySzRSUwfTHyoozU6pWJTubGBowmvDiM6iQleH5HuCTNySFXohqClPIDnzK2jAjBFgCFhlHm9TaCEiMsa-6Yplew63V9R-L8IpUBWhEioEz=w1280" alt="" loading="lazy"/></figure>
+<figure class="wp-block-image"><img src="https://sites.google.com/sitesv-images-rt/APXyLQemrh8e67zMYuyWlNInqYe0tq00u9sYThKYdZe3UFU-69rV_zj0_FhrbekxPMy1uTj4UaWm22dJbkLAjV-mpul7QMLbM2LltI5ibmXQWmvbEuy9m33IgJg2VG485Nq6dS1PNg3xNWgjkoc-1d900wIFQPg6TdH0-bnut2ENJAuLSouurlkRv4mVCTii2QtjsSuWcDIvAoQLc0HobrXEwvbYDTG_nY31QL8EIEajLck=w1280" alt="" loading="lazy"/></figure>
+<h2>Frango Chefe</h2>
+<p><strong>Idade:</strong> 67 anos</p>
+<p><strong>Peso:</strong> 110kg</p>
+<p><strong>Poder:</strong> Super força</p>
+<p><strong>Fraqueza:</strong> Se cansa mais rápido</p>
+<p>Ele roubou todo o frango do seu estoque, foi a falência, mas agora ele tem o seu shape impecável.</p>
+<figure class="wp-block-image"><img src="https://sites.google.com/sitesv-images-rt/APXyLQdkprXHR2hLXhhOoU6XI_FTh61rs7bLvKNQ-vxriUhvLK_VGaXdHJlRn-UUjLmYytRkE9NIN7Gj2hna1LXp8vA99rNC1HoOkTv1tOKTGkmElDuazeZvWTPjzx9HMBQ_AmJkXkSieFpV-WqLFKWJVitjk_1Cfl0IXJwC707z_tOW0avAWbQvTpcqRnlCq2wU1HBpfif-dfA8-8RBm5GeoiXWqEPFxohq97LaBrfSnk8=w1280" alt="" loading="lazy"/></figure>
+<h2>Porcão Telesena</h2>
+<p><strong>Idade:</strong> 12 anos</p>
+<p><strong>Peso:</strong> 300kg</p>
+<p><strong>Poder:</strong> Dinheiro infinito</p>
+<p><strong>Fraqueza:</strong> Se move lentamente</p>
+<p>Ele se revoltou com o sistema e roubou todo o dinheiro do prêmio da TeleSena para si, hoje ele é um mafioso sem escrúpulos.</p>
+<figure class="wp-block-image"><img src="https://sites.google.com/sitesv-images-rt/APXyLQcPvBnAy1wVSwgFO7IIGljKLYPo1xmsZzlzTNYzNLEyxuQ535u0rrrnrHZgq7i0GyijcasdrKrcvsmv0ptoO6G-WnJHh3ub1JOD0_ZiTm9A3ZDCNx1QtyCLM1vUzS0TPAaAr8_HJqg5tbtZcn_bQN8W8bPpEtpsqFhtmSZs9frbkdpx4PvsRd7nMbNN5k3Ekh5l4C_YRBvs2-E6VjmCoviWzK0QER8-03j2sigk=w1280" alt="" loading="lazy"/></figure>
+<h2>Assolan</h2>
+<p><strong>Idade:</strong> 1 ano</p>
+<p><strong>Peso:</strong> 15g</p>
+<p><strong>Poder:</strong> Pegar Fogo</p>
+<p><strong>Fraqueza:</strong> Pegar Fogo</p>
+<p>Bombril suicida, ele vai ter apenas um golpe, precisa ser certeiro porque aós o golpe ele não vai mais existir.</p>
+<figure class="wp-block-image"><img src="https://sites.google.com/sitesv-images-rt/APXyLQexND4NZ-EqPMy2h0z6QHd7UBUYDJkHjTGoZYnrlSBxFFHS6v9b1g_UFVrbp6Ls7qP7XjMaeVS3fkpfdcUVZhjulRPa3qtYLfXoHoczAEWagMWlkrmJ4E2tNSV3EY_XvD1VFqV57na6U981BEPYNTYLMl3GF8W3UX-Fn51osrZ8f78TJ3Ru5RkxBsGDofM=w1280" alt="" loading="lazy"/></figure>
+<figure class="wp-block-image"><img src="https://sites.google.com/sitesv-images-rt/APXyLQcr4rOgoa-9scPx73ei07JD4tJqGIa-YwfIbIgdpuQtwRnRRlnkQ_Ndna7e2OgmhtMCcenSfrNMZSk-WlZrTEmLRKW7rf9UXEEgSD_uuHYOBiwgPa86rFPyDjmG4P3hlcPyu9rkui3ltxMa9EqPk5GK4E0tWdB95VvKN87kgeCCPrngE1pPXRx7BfFWo3rKUaRcPPMPWxuMYqZI4w33i0AbHW104NkF8zcqeHYi=w1280" alt="" loading="lazy"/></figure>
+<figure class="wp-block-image"><img src="https://sites.google.com/sitesv-images-rt/APXyLQeuDZcbcpORTxR0Bi05jXW_DyZ9ZyKcVPlNFibKhQqTYyeGjV6sXuZJX6nW3L61AvgDlCCxshvriSwe05r9uv0nSVFuTdOKYb8qft8yGNIwqU8v_4VaPO4ZzNeof463vCgZyB7ijUrpBJskMoEw2FFCSAmyH05stTJL50mKrmxbXPtPyJzQQf0XYzAh9rE_3hzIkckcvbdJ8JJEmyii8Zg4IYaVtpAOQ-xfuQ8XdAU=w1280" alt="" loading="lazy"/></figure>
+<figure class="wp-block-image"><img src="https://sites.google.com/sitesv-images-rt/APXyLQeIa-8qaSweCL135WWEQlwB1jBqz11pc6La5jKNqhfYrKkMfuSFAJu_gGLGOzMjAm726A2YplCckVEoO38b0NhDbLpW-IIaKiwE5MSQBtLYP1AWzxZ4en8QKx9B9JaRwoYPFHBrWW6vwYUNLR_jztnZbHq5bJXr_YN0YP1SfnKC5Hb6403gm6_EKqXoAig=w1280" alt="" loading="lazy"/></figure>
+<figure class="wp-block-image"><img src="https://sites.google.com/sitesv-images-rt/APXyLQeMq0L4iu6SUmHErkB9qFj6SkB7riX-T_C1WBF63gY9vAbomVxIRPsRXGLIOOdptR_9VWTfLvWBG6CcwXjif4hJfWsO-tVVynRJ43gXX_Vfkc1RmfYu_Q5TCTVREFJZ-FA0VlB_WZgbLdw5I26OQ3FDM21ls1xM9TLAazyAYdJaeMVpQXXnWhrvSlknEH58Z2emt5ekE58PMz9LBiIIDNGDgh80jmFeGB20vu_d=w1280" alt="" loading="lazy"/></figure>
+<figure class="wp-block-image"><img src="https://sites.google.com/sitesv-images-rt/APXyLQdkYernvVSvbZMoKW6h2QxP1VoUCYHe5oU0vZE4Jinth_pw86Bh_LyJbqhnS_5cu3CP27vu3aidVciV3PgiE-EC65Us7tGiIvWEh9wUYbzif5rj9ZnRfjFiJaL0w4tbAA707UhOadL5OEnKOBFGKJPR4S_l-iJQ79jKFLrtwYvnnSWvCWqVcM1oA2t4ksMkknal7u4GY7KqnTYzyLPnBvx1d_v8gvZmqHRI0r16who=w1280" alt="" loading="lazy"/></figure>]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+      <wp:post_id>109</wp:post_id>
+      <wp:post_date><![CDATA[2026-11-17 11:00:00]]></wp:post_date>
+      <wp:post_date_gmt><![CDATA[2026-11-17 14:00:00]]></wp:post_date_gmt>
+      <wp:post_modified><![CDATA[2026-11-17 11:00:00]]></wp:post_modified>
+      <wp:post_modified_gmt><![CDATA[2026-11-17 14:00:00]]></wp:post_modified_gmt>
+      <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+      <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+      <wp:post_name><![CDATA[mascotes]]></wp:post_name>
+      <wp:status><![CDATA[publish]]></wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>9</wp:menu_order>
+      <wp:post_type><![CDATA[page]]></wp:post_type>
+      <wp:post_password><![CDATA[]]></wp:post_password>
+      <wp:is_sticky>0</wp:is_sticky>
+    </item>
+    <item>
+      <title>Batalha Final</title>
+      <link>https://SEU-SITE.com.br/batalha-final/</link>
+      <pubDate>Tue, 17 Nov 2026 14:00:00 +0000</pubDate>
+      <dc:creator><![CDATA[admin]]></dc:creator>
+      <guid isPermaLink="false">https://SEU-SITE.com.br/?page_id=110</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+      <wp:post_id>110</wp:post_id>
+      <wp:post_date><![CDATA[2026-11-17 11:00:00]]></wp:post_date>
+      <wp:post_date_gmt><![CDATA[2026-11-17 14:00:00]]></wp:post_date_gmt>
+      <wp:post_modified><![CDATA[2026-11-17 11:00:00]]></wp:post_modified>
+      <wp:post_modified_gmt><![CDATA[2026-11-17 14:00:00]]></wp:post_modified_gmt>
+      <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+      <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+      <wp:post_name><![CDATA[batalha-final]]></wp:post_name>
+      <wp:status><![CDATA[publish]]></wp:status>
+      <wp:post_parent>0</wp:post_parent>
+      <wp:menu_order>10</wp:menu_order>
+      <wp:post_type><![CDATA[page]]></wp:post_type>
+      <wp:post_password><![CDATA[]]></wp:post_password>
+      <wp:is_sticky>0</wp:is_sticky>
+    </item>
+  </channel>
+</rss>
